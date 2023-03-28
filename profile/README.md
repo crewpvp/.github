@@ -7,5 +7,5 @@
 
 ##
   
-![crew](https://github.com/crewpvp/.github/blob/main/logo.png#gh-dark-mode-only)
-![crew](https://github.com/crewpvp/.github/blob/main/logo1.png#gh-light-mode-only)
+![crew](https://github.com/crewpvp/.github/blob/main/logo.svg#gh-dark-mode-only)
+![crew](https://github.com/crewpvp/.github/blob/main/logo1.svg#gh-light-mode-only)
